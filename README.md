@@ -10,7 +10,7 @@ Having in mind that there are many types of Operating Systems (Networking, distr
 To what concerns the structure of our Operating system, we when in for a UNIX based kernel called monolithic kernel, in which we put most of our programs such as the ones involved in file management, process synchronization, CPU scheduling etc. 
 One benefit of this structure is that, it prevents the application programs from directly interacting with the hardware. However, the disadvantage is that, if one error occurs in the kernel, all the programs found inside would be affected. 
 
-### Objectives: 
+# Objectives: 
 Following a UNIX based operating system, our objective is to design an operating system which is at a  
 ### User point of view, convenient to use, easy to learn, reliable, safe and fast. And in the  
 ### Developers’ point of view, it should be easy to design, implement and maintain, flexible, reliable, error-free and efficient.  
