@@ -26,6 +26,32 @@ Here is an overview of the services provided by our Operating system: <br>
 	Accounting <br>
 	Protection and security <br>
 
+# Design Goals 
+	User Goals:  convenient to use, easy to learn, reliable, safe and fast. <br>
+	System Goals: easy to design, implement and maintain, flexible, reliable, error-free and efficient. <br>
+
+# Implementation 
+We started by making sure that we separate our Policies (what needs to be done) from our Mechanisms (how it needs to be done) <br>
+1.	Bootloader <br>
+2.	CPU scheduling Algorithm (Shortest Job First): https://65th.short.gy/oMIG1I <br>
+3.	Process scheduling algorithm: <br>
+4.	Thread  and process Creation and termination <br>
+5.	Disk 	scheduling 	Algorithm 	(Shortest 	Seek 	Time 	First): https://65th.short.gy/NeLeFK <br>
+6.	Job, Long, Medium and short term schedulers <br>
+7.	Jo, Ready, Running and waiting queue <br>
+8.	Shell and pthreads <br>
+9.	Libraries and header files <br> 
+10.	Dispatcher and context switching algorithms <br> 
+11.	Process Control Blocks and File Control Blocks <br>
+12.	System calls <br>
+13.	User/Application programs <br> 
+14.	Command Line Interface <br>
+15.	Interrupt Handler <br>
+16.	Parallelism and concurrency <br>
+17.	Resource Allocation Table <br>
+18.	Inter Process Communication <br>
+19.	Then all the ones we wrote already from the text book 
+
  
  
 
